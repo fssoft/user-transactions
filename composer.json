@@ -1,0 +1,14 @@
+{
+  "name": "fssoft/user-transactions",
+  "description": "Payment module for FS projects.",
+  "keywords": ["fssoft"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Serhii Vyshnov"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
